@@ -12,6 +12,9 @@ Some of the links below will take you directly to the electronic version of the 
 
 [1]: javascript:void(location.href='http://'+location.host+'.silk.library.umass.edu'+location.pathname+location.search)
 
+## Readings for 1/29
 
+- Frege, "[The thought](http://www.jstor.org/stable/2251513)"
+- Frege, "[On Sense and Reference](http://dl.dropbox.com/u/2015884/Frege_on_sense_and_reference.pdf)"
 
 
