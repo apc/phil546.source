@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Welcome"
+date: 2014-01-22 21:56:42 -0500
+comments: true
+categories: [announcements]
+---
+
+This is the website for PHIL 546 at [UMass Amherst](http://www.umass.edu). Announcements, readings, and other relevant information will be posted here. If you are enrolled in this class, you should be checking [this website](http://perezcarballo.org/phil546) regularly, as well as the [course calendar](http://perezcarballo.org/phil546/calendar).
+
+For your convenience, I have set up a mailing list for this course. I encourage you to subscribe in order to be notified of announcements on this site. Note, however, that you will only be notified of updates to the site once a day. (If there are no new updates on a given day, you will receive no emails.)
+
+<!-- more -->
+
+Of course, you do not need to be enrolled in the seminar in order to subscribe to the mailing list. If you think you might want to come to some of the meetings, you may want to subscribe to be notified of any relevant information. Alternatively, you can just check the website before coming to class. 
+
+A draft of the [syllabus](http://perezcarballo.org/phil546/syllabus) is available as a .pdf [here](http://perezcarballo.org/files/teaching/phil546.pdf).

@@ -1,0 +1,132 @@
+// This File is imported last, and will override other styles in the cascade
+// Add styles here to make changes without digging in too much
+
+@import "_typography";
+
+#content div.pagination {
+	background: none;
+	}
+
+body {
+  h2 {
+    letter-spacing: .2em;
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: .8em !important;
+    padding-bottom: 10px !important;
+    color: lighten($title-color,10);
+  }
+}
+
+aside.sidebar {
+    section {
+    @extend .serif;
+    font-size: .7em;
+    }
+  h1 {
+  	color: darken($sidebar-color, 15);
+  	letter-spacing: .2em;
+    text-transform: uppercase;
+  	font-weight: 600;
+  	font-size: .95em !important;
+    padding-bottom: 5px !important;
+  }
+  }
+
+// content > article {
+//     header {
+//     	padding-top: 0 !important;
+//     }
+//   }
+
+#content > div {
+	header {
+    // font-size: $header-font-size;
+    padding-top: 0;
+    padding-bottom: $header-padding-bottom/2;
+    color: $title-color;
+	}
+	article {
+		padding-top: 0;
+        padding-bottom: $pad-medium/2;
+    }
+}
+
+.blog-index {
+	header {
+		padding-top: $header-padding-bottom !important;
+		padding-bottom: $header-padding-bottom !important;
+		margin-bottom: 0 !important;
+	}
+  p.meta{
+    margin-left: -100px !important;
+      padding-top: $header-padding-top*1.5 !important;
+  }
+}
+
+.hentry {
+  header {
+    padding-top: $header-padding-bottom !important;
+    padding-bottom: $header-padding-bottom !important;
+    margin-bottom: 0 !important;
+    background: none;
+    p.meta{
+    margin-left: -100px !important;
+      padding-top: $header-padding-top*1.5 !important;
+  }
+  }
+  footer {
+    p.meta{
+      font-size: .6em !important;
+      text-transform: uppercase;
+      letter-spacing: .2em !important;
+    }
+  }
+}
+
+
+
+
+// $sidebar-color: change-color(mix($text-color, $sidebar-bg, 80), $hue: hue($sidebar-bg), $saturation: saturation($sidebar-bg)/2) !default;
+// $sidebar-color: #000 !important;
+
+// 
+
+// Set search box background the same color as page background.
+body > nav form .search {
+  background-color: $page-bg;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+}
+
+// This thing below is a bit of a hack. I'm trying to reduce interparagraph spacing. Better way?
+p{
+  margin-bottom: 1em !important;
+}
+
+// Modify footer a bit
+
+body > footer {
+  font-size: .6em;
+  text-transform: uppercase;
+  letter-spacing: .2em;
+}
+
+
+// Email subscription aside
+
+#mc_embed_signup {
+
+    // label
+    .mc-field-group > label {
+  margin-top: 8px;
+  display: block;
+    }
+
+    // textfield
+    input.email {
+  width: 80%; height: 20px; margin-top: 8px; margin-bottom: 8px;
+    }
+
+    
+}
