@@ -18,3 +18,8 @@ Some of the links below will take you directly to the electronic version of the 
 - Frege, "[On Sense and Reference](http://dl.dropbox.com/u/2015884/Frege_on_sense_and_reference.pdf)"
 
 
+## Readings for 2/5
+
+- Russell, "[On Denoting](http://www.jstor.org/stable/2248381)"
+- Strawson, "[On Referring](http://www.jstor.org/stable/2251176)"
+- Russell, "[Mr. Strawson On Referring](http://www.jstor.org/stable/2251489)"
