@@ -1,0 +1,9 @@
+---
+layout: post
+title: "This week"
+date: 2014-02-10 23:00:07 -0500
+comments: true
+categories: 
+---
+
+This week we will discuss what we were supposed to do last week, i.e. Russell and Strawson. I will update the reading schedule so as to reflect last week's snow day.

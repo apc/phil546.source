@@ -20,6 +20,19 @@ Some of the links below will take you directly to the electronic version of the 
 
 ## Readings for 2/5
 
+*No meeting this week due to inclement weather.*
+
+## Readings for 2/12
+
 - Russell, "[On Denoting](http://www.jstor.org/stable/2248381)"
 - Strawson, "[On Referring](http://www.jstor.org/stable/2251176)"
 - Russell, "[Mr. Strawson On Referring](http://www.jstor.org/stable/2251489)"
+
+## Readings for 2/19
+
+- Kripke, *[Naming and Necessity](https://moodle.umass.edu/mod/resource/view.php?id=464645)*, Lecture II.
+
+## Readings for 2/26
+
+- Grice, "[Logic and Conversation](https://moodle.umass.edu/pluginfile.php/641093/mod_resource/content/1/Grice-LandC%2BFurther.pdf)".
+- Grice, "[Further notes on Logic and Conversation](https://moodle.umass.edu/pluginfile.php/641093/mod_resource/content/1/Grice-LandC%2BFurther.pdf)" (optional).
