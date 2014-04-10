@@ -36,3 +36,28 @@ Some of the links below will take you directly to the electronic version of the 
 
 - Grice, "[Logic and Conversation](https://moodle.umass.edu/pluginfile.php/641093/mod_resource/content/1/Grice-LandC%2BFurther.pdf)".
 - Grice, "[Further notes on Logic and Conversation](https://moodle.umass.edu/pluginfile.php/641093/mod_resource/content/1/Grice-LandC%2BFurther.pdf)" (optional).
+
+## Readings for 3/12
+
+- Stalnaker, "[Assertion](https://moodle.umass.edu/mod/resource/view.php?id=479987)".
+- Stalnaker, "[Assertion Revisited](http://link.springer.com/article/10.1023%2FB%3APHIL.0000019550.81145.34)" (optional).
+
+## Readings for 3/26
+
+- Lewis, "[Scorekeeping in a language game](http://www.jstor.org/stable/30227173)"
+- Lewis, "[A problem about permission](https://moodle.umass.edu/mod/resource/view.php?id=483815)"
+
+## Readings for 4/2
+
+- Dummett, "[What is a Theory of Meaning? (I)](https://moodle.umass.edu/mod/resource/view.php?id=486592)"
+- Antony, "[Meaning and Semantic Knowledge](http://www.jstor.org/stable/4106958)" (optional).
+- Davidson, "[Truth and Meaning](http://www.jstor.org/stable/20114563)" (background). 
+
+## Readings for 4/9
+
+- Chomsky, "[Explaining language use](https://moodle.umass.edu/mod/resource/view.php?id=488806)"
+- Chomsky, "[Language as a natural object](https://moodle.umass.edu/mod/resource/view.php?id=488812)"
+
+## Readings for 4/16
+
+- Pietroski, "[Meaning before truth](http://terpconnect.umd.edu/~pietro/research/papers/mbt.pdf)"
