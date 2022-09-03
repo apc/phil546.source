@@ -60,4 +60,10 @@ Some of the links below will take you directly to the electronic version of the 
 
 ## Readings for 4/16
 
+- Rayo, "[Vague representation](http://mind.oxfordjournals.org/content/117/466/329.abstract?ijkey=PXmDlLfZxG54YWn&keytype=ref)"
 - Pietroski, "[Meaning before truth](http://terpconnect.umd.edu/~pietro/research/papers/mbt.pdf)"
+
+## Readings for 4/30
+
+- Partee, "[Semantics -- mathematics or psychology?](http://semanticsarchive.net/Archive/DZmMTg5O/)"
+- Partee, "[Changing Perspectives on the 'Mathematics or Psychology' Question](https://udrive.oit.umass.edu/partee/history_project/Partee2013Princeton-4up.pdf)" (slides; optional)
